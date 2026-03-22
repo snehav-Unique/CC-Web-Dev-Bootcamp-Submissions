@@ -159,3 +159,14 @@ Treat it like your **first step into building real-world projects**.
 Happy coding 💻🔥
 
 </div>
+
+
+
+ASSIGNMENT I : GUIDELINES 
+Here I have created 2 web pages associated with the help of JS 
+SO the first page is the login page : Any username + password combi is okay
+
+after we press on the submit button -> we enter the next to do list page 
+Here we can add any number of list items , and delete them as well 
+
+This is the project 
